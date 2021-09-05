@@ -12,7 +12,7 @@ I'm a Web Develper and I like to build interesting things related to programming
 
 - 👨‍💻 I’m currently studying at university and working in personal and challenging new projects.
 - 🔎 I’m looking for a half time job opportunitie.
-- 😊 Pronouns: Jesús.
+- 😊 Open to make a team and work with new people.
 - 📫 How to reach me: jesus.cervantes0801@gmail.com.
 - 🌐 Know me more: <a href="https://www.jesuscervantes.dev/">jesuscervantes.dev</a>
 - ⚡ Fun fact: I enjoy playing <a href="https://www.geoguessr.com/">Geoguessr</a>.
@@ -27,6 +27,7 @@ I'm a Web Develper and I like to build interesting things related to programming
 
 - 📋 [My Resume/CV](https://github.com/Jesuscc9/Jesuscc9/blob/main/CV.pdf)
 - 📧 jesus.cervantes0801@gmail.com
+- 💼 <a href="https://www.linkedin.com/in/jesuscc9/">LinkedIn</a>
 
 #### Thanks for beeing my visitor number:
 
