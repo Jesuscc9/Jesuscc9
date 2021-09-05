@@ -18,7 +18,6 @@ I'm a Web Develper and I like to build interesting things related to programming
 - ⚡ Fun fact: I enjoy playing <a href="https://www.geoguessr.com/">Geoguessr</a>.
 
 <br>
-<br>
 
 #### Technologies I like to use
 
@@ -27,14 +26,12 @@ I'm a Web Develper and I like to build interesting things related to programming
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![CSS Badge](https://img.shields.io/badge/-css3-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=264de4)](#)
 
 <br />
-<br />
 
 #### Professional
 
 - 📋 [My Resume/CV](https://github.com/Jesuscc9/Jesuscc9/blob/main/CV.pdf)
 - 📧 jesus.cervantes0801@gmail.com
 
-<br />
 <br />
 
 #### Thanks for beeing my visitor number:
