@@ -33,7 +33,7 @@ I'm a Web Develper and I like to build interesting things related to programming
 
 #### Professional
 
-- 📋 [My Resume/CV](https://github.com/Jesuscc9/Jesuscc9/blobl/main/CV.pdf)
+- 📋 [My Resume/CV](https://github.com/Jesuscc9/Jesuscc9/blob/main/CV.pdf)
 - 📧 jesus.cervantes0801@gmail.com
 
 <br />
