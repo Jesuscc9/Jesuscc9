@@ -4,7 +4,7 @@ I'm a Web Develper and I like to build interesting things related to programming
 
 📧 Contact me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jesuscc9-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jesuscc989/) [![Mail Badge](https://img.shields.io/badge/-@jesuscc9-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/jesuscc989/) [![Mail Badge](https://img.shields.io/badge/-jesus.cervantes0801-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jesus.cervantes@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jesuscc9-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesuscc9/) [![Mail Badge](https://img.shields.io/badge/-@jesuscc9-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/jesuscc989/) [![Mail Badge](https://img.shields.io/badge/-jesus.cervantes0801-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jesus.cervantes@gmail.com)
 
 <br>
 
