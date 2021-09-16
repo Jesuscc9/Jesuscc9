@@ -14,7 +14,7 @@ I'm a Web Develper and I like to build interesting things related to programming
 - 🔎 I’m looking for a half time job opportunitie.
 - 😊 Open to make a team and work with new people.
 - 📫 How to reach me: jesus.cervantes0801@gmail.com.
-- 🌐 Know me more: <a href="https://www.jesuscervantes.dev/">jesuscervantes.dev</a>
+- 🌐 Know me more: <a href="https://jesuscervantes.dev/">jesuscervantes.dev</a>
 - ⚡ Fun fact: I enjoy playing <a href="https://www.geoguessr.com/">Geoguessr</a>.
 
 #### Technologies I like to use
