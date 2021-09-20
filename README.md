@@ -10,8 +10,7 @@ I'm a Web Develper and I like to build interesting things related to programming
 
 <!-- TODO: Add last video link -->
 
-- 👨‍💻 I’m currently studying at university and working in personal and challenging new projects.
-- 🔎 I’m looking for a half time job opportunitie.
+- 👨‍💻 I’m currently studying at university, working as a Front-End developer at Wingoo.io, and working in personal projects.
 - 😊 Open to make a team and work with new people.
 - 📫 How to reach me: jesus.cervantes0801@gmail.com.
 - 🌐 Know me more: <a href="https://jesuscervantes.dev/">jesuscervantes.dev</a>
